@@ -1,0 +1,16 @@
+.form-box .btn {
+    max-width: 350px;
+    width: 100%;
+}
+
+.list {
+    max-width: 350px;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.col-md-12 {
+    max-width: 350px;
+    width: 100%;
+    margin: 0 auto;
+}
