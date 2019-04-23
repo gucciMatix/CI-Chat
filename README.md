@@ -4,7 +4,7 @@ Aplikację wykonał: Matix.
 
 Jak odpalić taką aplikację u siebie na komputerze?
 - Pobierz wszystkie pliki
-- Następnie przejdz do folderu application
+- Następnie przejdz do folderu application a następnie do folderu config
 - Otwórz plik config.php i zedytuj liniję 26 $config['base_url'] = '';
 - Otwórz plik database.php i skonfiguruj bazę danych pod siebie
 - Odpal! :)
