@@ -3,6 +3,6 @@
 class Main extends CI_Controller {
 	public function index() {
 		$this->load->model("chat");
-		$this->load->view('welcome_message');
+		$this->load->view('main_view');
 	}
 }
